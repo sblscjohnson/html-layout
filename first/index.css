@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(190,190,190);
+}
+
+main {
+    background-color: white;
+    position: relative;
+    bottom: 0vh;
+    left: 15vw;
+    height: 77vh;
+    width: 70vw;
+}
+
+header {
+    background-color: rgb(78,78,78);
+    width: 100vw;
+    height: 15vw;
+}
+
+
+footer {
+    background-color: black;
+    position: relative;
+    bottom: 0vw;
+    width: 70vw;
+    left: 15vw;
+    height: 8vw;
+}
