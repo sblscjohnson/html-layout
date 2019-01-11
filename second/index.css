@@ -26,9 +26,9 @@ header {
 
 .blue_circle {
     position: relative;
-    bottom: 32vh;
-    height: 155px;
-    width: 155px;
+    bottom: 33vh;
+    height: 23vh;
+    width: 23vh;
     background-color: lightblue;
     margin-left: 55%;
     border-radius: 50%;
