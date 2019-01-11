@@ -2,7 +2,7 @@ header {
     height: 27vh;
     width: 95vw;
     border: solid;
-    margin: 2%;
+    margin: 2vw;
     background-color: white;
 }
 
@@ -26,7 +26,7 @@ header {
 
 .blue_circle {
     position: relative;
-    bottom: 30vh;
+    bottom: 32vh;
     height: 155px;
     width: 155px;
     background-color: lightblue;
@@ -46,11 +46,11 @@ main {
 
 .tan_rectangle {
     background-color: #F6F3CC;
-    margin: 5%;
-    height: 150px;
+    margin: auto;
+    height: 20vh;
     width: 85vw;
     position: relative;
-    bottom: 12px;
+    top: 3vh;
     box-shadow: 5px 5px rgba(23,23,23,.8);
 }
 
